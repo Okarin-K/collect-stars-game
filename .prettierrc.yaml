@@ -1,0 +1,4 @@
+trailingComma: "es5"
+tabWith: 4
+semi: true
+singleQuote: true
